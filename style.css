@@ -1,0 +1,56 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  height: 500px;
+  width: 90%;
+}
+
+#container1{
+  flex-direction: column;
+  width: 59%;
+  margin: 5px;
+}
+
+.lorem1{
+  background-color: #7FFF00;
+  height: 220px;
+}
+
+.lorem2{
+  background-color: #FF1493;
+  height: 50%;
+  margin-bottom: 5px;
+}
+
+.lorem4{
+  background-color: #00FFFF;
+  height: 50%; 
+}
+
+.lorem3{
+ background-color: grey;
+ height: 160px;
+ width: 50%;
+ margin-left: 5px;
+ }
+
+ .lorem5{
+   background-color: #E9967A;
+   height: 150px;
+ }
+
+ .lorem6{
+   width: 39%;
+   background-color: blue;
+   margin: 5px 0 5px 0;
+ }
+
+ #container2{
+   display: flex;
+   margin: 5px 0 5px 0;
+ }
+
+.duirketuri{
+  width: 50%;
+  margin-bottom: 5px;
+}
